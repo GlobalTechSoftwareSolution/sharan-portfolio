@@ -19,7 +19,7 @@ const teamMembers = [
     role: "Backend Developer",
     image: "/team/abi.jpg",
     github: "https://github.com/AbhishekMangalur",
-    portfolio: "https://abishek.dev",
+    portfolio: "https://abhishekmangalur.github.io/Portfolio/",
     email: "abhimangalur1@gmail.com ",
   },
   {

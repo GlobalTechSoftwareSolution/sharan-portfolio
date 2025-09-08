@@ -16,18 +16,18 @@ export default function Footer() {
         className="flex md:flex-row items-center gap-6 text-sm md:text-base"
       >
         <a
-          href="tel:+919844281875"
+          href="tel:+918495862494"
           className="flex items-center gap-2 hover:text-emerald-600 transition"
         >
           <FiPhone className="w-5 h-5" />
-          +91 98442 81875
+          +91 84958 62494
         </a> <br />
         <a
-          href="mailto:sharan@example.com"
+          href="mailto:sikoti8055@gmail.com"
           className="flex items-center gap-2 hover:text-emerald-600 transition"
         >
           <FiMail className="w-5 h-5" />
-          sharan@example.com
+          sikoti8055@gmail.com
         </a>
       </motion.div>
 

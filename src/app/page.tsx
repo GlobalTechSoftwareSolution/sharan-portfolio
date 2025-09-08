@@ -7,6 +7,7 @@ import Team from '@/app/team/page';
 import Emo from '@/app/emo/page';
 import Footer from "@/components/footer";
 import Navbar from "@/components/navbar";
+import Contact from "@/app/contact/page";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <Client />
       <Emo />
       <Team />
+      <Contact />
       <Footer />
     </>
   );

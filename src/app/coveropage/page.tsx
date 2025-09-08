@@ -18,7 +18,7 @@ export default function ProfessionalCoverPage({
   name = "Sharan Patil",
   portrait = "/team/sharan.jpg",
   bio = "Entrepreneur and innovator passionate about empowering farmers through technology, creating sustainable solutions, and transforming rural communities.",
-  email = "mailto:sharan@example.com",
+  email = "mailto:sikoti8055@gmail.com",
   linkedin = "https://linkedin.com/in/sharanpatil",
   facebook = "https://www.facebook.com/sharan.koti.16",
 }: CoverPageProps) {

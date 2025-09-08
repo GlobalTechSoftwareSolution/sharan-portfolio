@@ -8,7 +8,7 @@ import { Mail, Github, Globe } from "lucide-react";
 const teamMembers = [
   {
     name: "Mani Bharadwaj",
-    role: "Full Stack Developer",
+    role: "SDE & Team Lead",
     image: "/team/manii.jpg",
     github: "https://github.com/Manibharadwaj",
     portfolio: "http://manibharadwaj.netlify.app/",
@@ -32,10 +32,10 @@ const teamMembers = [
   },
   {
     name: "Gomathish Krishna",
-    role: "Finance Manager",
+    role: "Finance Executive",
     image: "/team/kiran.jpg",
-    github: "/",
-    portfolio: "/",
+    github: "/sreenath.globalfin.care@gmail.com",
+    portfolio: "/sreenath.globalfin.care@gmail.com",
     email: "sreenath.globalfin.care@gmail.com",
   },
 ];

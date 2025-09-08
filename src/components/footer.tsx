@@ -38,7 +38,7 @@ export default function Footer() {
         transition={{ delay: 0.4, duration: 0.8 }}
         className="text-xs md:text-sm text-black dark:text-slate-400 mt-4"
       >
-        &copy; {new Date().getFullYear()} FarmHarvestToHome. All rights reserved.
+        &copy; {new Date().getFullYear()} My Portfolio. All rights reserved.
       </motion.div>
     </footer>
   );

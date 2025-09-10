@@ -28,7 +28,7 @@ const testimonials: Testimonial[] = [
     id: 1,
     name: "Mani Bharadwaj",
     role: "Tech",
-    company: "GLobal SOftware",
+    company: "Global Software",
     avatar: "/team/manii.jpg",
     feedback:
       "Working with this team has transformed our business. Their insights and dedication are unmatched. The strategic guidance we received helped us increase our market share by 35% in just one quarter.",
@@ -46,7 +46,7 @@ const testimonials: Testimonial[] = [
   },
   {
     id: 3,
-    name: "Abishek Kumar",
+    name: "Abishek",
     role: "CTO",
     company: "EcoFarms",
     avatar: "/team/abi.jpg",
@@ -57,7 +57,7 @@ const testimonials: Testimonial[] = [
   },
   {
     id: 4,
-    name: "Kiran Reddy",
+    name: "Kiran",
     role: "Finance Head",
     company: "Organic Co.",
     avatar: "/team/kiran.jpg",

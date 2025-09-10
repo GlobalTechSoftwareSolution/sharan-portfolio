@@ -41,8 +41,8 @@ const businesses: Business[] = [
     fullDescription:
       "FarmHarvestToHome is an innovative agri-tech platform that connects local farmers directly with consumers, eliminating middlemen and ensuring fresher produce at fair prices.",
     stats: [
-      { value: "10,000+", label: "Happy Customers" },
-      { value: "500+", label: "Partner Farmers" },
+      { value: "1000+", label: "Happy Customers" },
+      { value: "100+", label: "Partner Farmers" },
       { value: "35%", label: "Income Increase" },
       { value: "60%", label: "Waste Reduction" },
     ],
@@ -110,7 +110,7 @@ const businesses: Business[] = [
     fullDescription:
       "Namma Uru Namma Hemme is a community-focused initiative that has generated employment for 1000+ individuals through various enterprises. We believe in creating opportunities rather than charity, fostering self-reliance, and building sustainable local economies.",
     stats: [
-      { value: "1,000+", label: "Jobs Created" },
+      { value: "500+", label: "Jobs Created" },
       { value: "15", label: "Local Communities" },
       { value: "₹5.2Cr", label: "Annual Revenue" },
       { value: "100%", label: "Ethical Practices" },
@@ -133,7 +133,7 @@ const businesses: Business[] = [
     fullDescription:
       "AgriCare Solutions empowers farmers with cutting-edge agricultural technology, data-driven insights, and sustainable farming practices. We offer precision farming tools, soil health monitoring, crop advisory services, and market linkage solutions.",
     stats: [
-      { value: "2,500+", label: "Farmers Empowered" },
+      { value: "1,500+", label: "Farmers Empowered" },
       { value: "45%", label: "Yield Increase" },
       { value: "30%", label: "Cost Reduction" },
       { value: "12", label: "Regions Served" },

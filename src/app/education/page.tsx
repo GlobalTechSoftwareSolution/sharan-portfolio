@@ -9,7 +9,7 @@ const qualifications = [
     icon: <GraduationCap className="w-7 h-7 text-emerald-600" />,
     title: "Master of Business Administration (MBA)",
     institution: "Chethan Business School",
-    year: "2018 – 2022",
+    year: " 2013 – 2015",
     details: "Specialized in Marketing and Human Resources (HR), with distinction in strategic management.",
     skills: ["Strategic Planning", "Market Analysis", "Leadership", "Organizational Behavior"],
     grade: "CGPA: 3.8/4.0"
@@ -18,7 +18,7 @@ const qualifications = [
     icon: <Award className="w-7 h-7 text-amber-600" />,
     title: "Financial Analyst (Bankers)",
     institution: "Professional Experience",
-    year: "2013 – Present",
+    year: "2020 – Present",
     details: "8 years of financial analysis expertise and 5 years of business leadership experience.",
     skills: ["Financial Modeling", "Risk Assessment", "Investment Analysis", "Portfolio Management"],
     achievements: ["Increased portfolio ROI by 28%", "Led team of 12 analysts", "Developed proprietary analysis framework"]
@@ -26,7 +26,7 @@ const qualifications = [
   {
     icon: <BookOpen className="w-7 h-7 text-blue-600" />,
     title: "Certified Digital Marketing Professional",
-    institution: "Digital Marketing Institute",
+    institution: "Digital Marketing",
     year: "2020",
     details: "Advanced certification in digital marketing strategies and analytics.",
     skills: ["SEO/SEM", "Social Media Marketing", "Data Analytics", "Content Strategy"],
@@ -36,7 +36,7 @@ const qualifications = [
     icon: <TrendingUp className="w-7 h-7 text-purple-600" />,
     title: "Business Development Strategist",
     institution: "Industry Recognition",
-    year: "2019 – Present",
+    year: "2020 – Present",
     details: "Recognized for developing innovative growth strategies in competitive markets.",
     skills: ["Market Penetration", "Partnership Development", "Revenue Growth", "Strategic Alliances"],
     achievements: ["Generated $4.2M in new business", "Expanded to 3 new markets", "25% YoY growth"]

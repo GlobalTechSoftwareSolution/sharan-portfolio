@@ -9,7 +9,7 @@ const experiences = [
     role: "Founder & CEO",
     // company: "FarmHarvestToHome",
     year: "2020 – Present",
-    duration: "4 years",
+    duration: "5 years",
     details:
       "Leading the development of an agri-tech marketplace that connects farmers directly with consumers. Focused on scalability, sustainability, and digital-first solutions.",
     achievements: [
@@ -24,8 +24,8 @@ const experiences = [
   {
     role: "Financial Analyst",
     company: "Independent Consulting",
-    year: "2013 – 2020",
-    duration: "7 years",
+    year: "2020 – Present",
+    duration: "5 years",
     details:
       "Provided financial insights and business strategies for SMEs and startups. Delivered actionable recommendations to improve growth, reduce costs, and optimize operations.",
     achievements: [
@@ -40,7 +40,7 @@ const experiences = [
   {
     role: "Business Manager",
     company: "Local Enterprises",
-    year: "2010 – 2013",
+    year: "2020 – present",
     duration: "3 years",
     details:
       "Managed day-to-day operations, supervised cross-functional teams, and drove revenue growth through innovative sales and marketing campaigns.",

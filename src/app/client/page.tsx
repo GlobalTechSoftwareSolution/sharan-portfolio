@@ -13,32 +13,32 @@ interface Testimonial {
 
 const testimonials: Testimonial[] = [
   {
-    name: "Alice Johnson",
+    name: "Mani Bharadwaj",
     role: "CEO, GreenHarvest",
-    avatar: "/clients/images.jpeg",
+    avatar: "/team/manii.jpg",
     feedback:
       "Working with this team has transformed our business. Their insights and dedication are unmatched.",
   },
   {
-    name: "Michael Lee",
+    name: "Pavan Reddy",
+    role: "Founder, PureHarvest",
+    avatar: "/team/pavan.jpg",
+    feedback:
+      "Exceptional service and creative solutions. They consistently exceed expectations.",
+  },
+  {
+    name: "Abishek",
     role: "CTO, EcoFarms",
-    avatar: "/clients/images.jpeg",
+    avatar: "/team/abi.jpg",
     feedback:
       "Professional, efficient, and innovative. I highly recommend them for any forward-thinking company.",
   },
   {
-    name: "Sofia Martinez",
+    name: "Kiran",
     role: "Marketing Head, Organic Co.",
-    avatar: "/clients/images.jpeg",
+    avatar: "/team/kiran.jpg",
     feedback:
       "Their attention to detail and proactive approach made our partnership seamless and productive.",
-  },
-  {
-    name: "David Kim",
-    role: "Founder, PureHarvest",
-    avatar: "/clients/images.jpeg",
-    feedback:
-      "Exceptional service and creative solutions. They consistently exceed expectations.",
   },
 ];
 

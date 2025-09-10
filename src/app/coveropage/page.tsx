@@ -16,7 +16,7 @@ interface CoverPageProps {
 
 export default function ProfessionalCoverPage({
   name = "Sharanagoud I Koti",
-  portrait = "/team/sharansir..jpg",
+  portrait = "/sharansir..jpg",
   bio = "Sharanagoud Koti decided to explore his interest in the digital world and now finds immense satisfaction in helping his customers find the right software solution for their business. Customer service is his sole objective, and dedication is his mantra of success.",
   email = "mailto:sikoti8055@gmail.com",
   linkedin = "https://linkedin.com/in/sharanpatil",

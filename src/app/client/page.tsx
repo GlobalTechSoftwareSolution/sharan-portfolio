@@ -46,10 +46,10 @@ const testimonials: Testimonial[] = [
   },
   {
     id: 3,
-    name: "Abishek",
+    name: "Pavan Kumar",
     role: "CTO",
     company: "EcoFarms",
-    avatar: "/team/abi.jpg",
+    avatar: "/team/Pavan.jpg",
     feedback:
       "Professional, efficient, and innovative. I highly recommend them for any forward-thinking company. Their technical solutions reduced our operational costs by 28% while improving system reliability.",
     rating: 5,
@@ -67,10 +67,10 @@ const testimonials: Testimonial[] = [
   },
   {
     id: 5,
-    name: "Sarah Johnson",
+    name: "Abhishek",
     role: "Operations Director",
     company: "TechGrowth",
-    avatar: "/clients/images.jpeg",
+    avatar: "/team/abi.jpg",
     feedback:
       "The team's ability to understand our complex requirements and deliver tailored solutions was impressive. They helped us streamline our workflow, saving over 20 hours per week in administrative tasks.",
     rating: 5,
